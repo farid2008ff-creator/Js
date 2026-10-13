@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Canlı TV</string>
+    <string name="live_stream">Canlı Yayım</string>
+    <string name="channels">Kanallar</string>
+    <string name="loading_stream">Yayım yüklənir…</string>
+    <string name="retry">Yenidən cəhd et</string>
+    <string name="error_stream">Yayım açıla bilmədi</string>
+    <string name="auto_fullscreen">Avto Tam Ekran</string>
+    <string name="channel_switch">Kanal dəyişdir</string>
+    <string name="back_to_list">Kanallar siyahısına qayıt</string>
+</resources>

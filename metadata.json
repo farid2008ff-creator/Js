@@ -1,0 +1,6 @@
+{
+  "name": "Canlı TV",
+  "description": "TRT 1, NOW, TRT 2, ATV, Kanal D, Show TV və Star TV canlı yayım tətbiqi. Mobil və Android TV tam dəstəyi ilə.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
